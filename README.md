@@ -4,14 +4,14 @@ En este repositorio centralizaremos toda la información relativa a los **Proyec
 
 Al final encontraréis los **apellidos y nombres** de los alumnos junto al **título de su proyecto**. El enlace nos dará acceso al repositorio del proyecto (no a la página GitHub del usuario).
 
-En este repositorio se debe incluir la documentación especificada en "Requerimientos y criterios a seguir en el desarrollo del proyecto".
+En este repositorio se debe incluir la documentación especificada en [Requerimientos y criterios a seguir en el desarrollo de los proyectos](https://github.com/mcondet/Proyectos-DAW-2019-2020/wiki/Criterios-comunes-para-todos-los-proyectos).
 
 Para la documentación adicional se puede utilizar la wiki del propio repositorio.
 
 Cada uno de los alumnos debe editar este fichero para incluir sus datos. Primero haremos un *fork*, editando y luego haciendo un *pull request* para que el profesor acepte las modificaciones. Para recordar el procedimiento podéis ehcarle un vistazo a [Git y GitHub. Guía de Supervivenciaa](https://leanpub.com/gitygithub)
 
 
-[Requerimientos y criterios a seguir en el desarrollo de los proyectos](https://github.com/mcondet/Proyectos-DAW-2019-2020/wiki/Criterios-comunes-para-todos-los-proyectos)
+
 
 ## Relación de proyectos de cada uno de los alumnos (respetar el orden de lista)
 
