@@ -8,9 +8,7 @@ En este repositorio se debe incluir la documentación especificada en [Requerimi
 
 Para la documentación adicional se puede utilizar la wiki del propio repositorio.
 
-Cada uno de los alumnos debe editar este fichero para incluir sus datos. Primero haremos un *fork*, editando y luego haciendo un *pull request* para que el profesor acepte las modificaciones. Para recordar el procedimiento podéis ehcarle un vistazo a [Git y GitHub. Guía de Supervivenciaa](https://leanpub.com/gitygithub)
-
-
+Cada uno de los alumnos debe editar este fichero para incluir sus datos. Primero haremos un *fork*, editando y luego un *pull request* para que el profesor acepte las modificaciones. Para recordar el procedimiento podéis ehcarle un vistazo a [Git y GitHub. Guía de Supervivenciaa](https://leanpub.com/gitygithub)
 
 
 ## Relación de proyectos de cada uno de los alumnos (respetar el orden de lista)
