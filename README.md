@@ -13,6 +13,6 @@ Cada uno de los alumnos debe editar este fichero para incluir sus datos. Primero
 
 [Requerimientos y criterios a seguir en el desarrollo de los proyectos](https://github.com/mcondet/Proyectos-DAW-2019-2020/wiki/Criterios-comunes-para-todos-los-proyectos)
 
-## Relación de proyectos de cada uno de los alumnos
+## Relación de proyectos de cada uno de los alumnos (respetar el orden de lista)
 
 
