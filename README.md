@@ -28,7 +28,7 @@ Cada uno de los alumnos debe editar este fichero para incluir sus datos. Primero
 - [Sánchez Martínez, Juan Carlos](https://github.com/JCarlosSanchezMartinez/Documentos)
 - [Santiago Romero, Alejandro]()
 ## Alumnos de 1º curso
-- [Del Real Navarro, Rocío](https://github.com/rociornav/Programacion_DAW)
-- [Escacena Macías, Pedro](https://github.com/PedroEscacena/Programacion_DAW)
+- [Del Real Navarro, Rocío](https://github.com/rociornav/Proyecto-Integrado)
+- [Escacena Macías, Pedro]()
 - [Librero Cansino, Juan José]()
 - [Rivas Montero, Sergio](https://github.com/SergioRivasM/Proyecto-Integrado)
